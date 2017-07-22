@@ -13,3 +13,7 @@ bot_username = username from bot
 yourUsername = your username to trigger messages
 
 yourChatId = your chatId
+
+
+## Your filesystem should look like this
+![fileSystemPicture](http://img.gruessung.eu/?f=1500738194.png)
